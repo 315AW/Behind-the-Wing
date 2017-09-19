@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <generator>Podcast RSSer 1.0</generator>
+        <lastBuildDate>Tue, 19 Sep 2017 10:46:07 -0400</lastBuildDate>
+        <title>Behind the Wing</title>
+        <link>https://www.dvidshub.net/unit/315AW/?q=315th+airlift+wing</link>
+        <itunes:subtitle>315th Airlift Wing Podcast</itunes:subtitle>
+        <copyright>U.S. Air Force Recording</copyright>
+        <language>en</language>
+        <itunes:author>315th Airlift Wing Public Affairs</itunes:author>
+        <itunes:summary>The 315th Airlift Wing’s Behind the Wing audio podcast is a monthly news program to inform, educate and entertain Citizen Airmen of the 315th AW and its supporters. The show is recorded in a fun and casual morning radio show style here in our studio at Joint Base Charleston, S.C. 
+Topics will include quick news bites, feature stories, Air Force humor and more. </itunes:summary>
+        <description>The 315th Airlift Wing’s Behind the Wing audio podcast is a monthly news program to inform, educate and entertain Citizen Airmen of the 315th AW and its supporters. The show is recorded in a fun and casual morning radio show style here in our studio at Joint Base Charleston, S.C. 
+Topics will include quick news bites, feature stories, Air Force humor and more. </description>
+        <itunes:owner>
+            <itunes:name>Michael Dukes</itunes:name>
+            <itunes:email>Michael.Dukes.2@us.af.mil</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://media.defense.gov/2017/Sep/14/2001809781/-1/-1/0/170914-F-AM806-001.JPG"></itunes:image>
+        <itunes:explicit>Clean</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:complete>No</itunes:complete>
+        <itunes:category text="Government &amp; Organizations">
+            <itunes:category text="National"></itunes:category>
+        </itunes:category>
+        <itunes:category text="News &amp; Politics"></itunes:category>
+        <item>
+            <title>Behind the Wing </title>
+            <itunes:author>315th Airlift Wing Public Affairs</itunes:author>
+            <itunes:subtitle>Intro Episode</itunes:subtitle>
+            <itunes:summary>An introduction into the 315th Airlift Wing’s Behind the Wing audio podcast, a monthly news program to inform, educate and entertain Citizen Airmen of the 315th AW and its supporters. The show is recorded in a fun and casual morning radio show style here in our studio at Joint Base Charleston, S.C. Topics will include quick news bites, feature stories, Air Force humor and more.</itunes:summary>
+            <itunes:image href="https://media.defense.gov/2017/Sep/14/2001809781/-1/-1/0/170914-F-AM806-001.JPG"></itunes:image>
+            <enclosure length="8223000" type="audio/x-m4a" url="https://www.dvidshub.net/audio/49459/behind-wing-2017-0"></enclosure>
+            <guid isPermaLink="false">8D42E48C-2111-4772-B293-9B1F6F6918BC</guid>
+            <pubDate>Tue, 19 Sep 2017 08:05:36 -0400</pubDate>
+            <itunes:duration>00:08:44</itunes:duration>
+            <itunes:block>No</itunes:block>
+            <itunes:explicit>Clean</itunes:explicit>
+            <itunes:isClosedCaptioned>No</itunes:isClosedCaptioned>
+            <itunes:order>0</itunes:order>
+        </item>
+    </channel>
+</rss>
